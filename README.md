@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
-<h3 align="center">A passionate frontend developer from India Welcome to my GitHub! I'm a dedicated Frontend Developer specializing in Angular and always eager to explore the latest in web development. With a keen eye for detail and a passion for creating seamless user experiences, I love building intuitive and responsive web applications.</h3>
+<h3 align="center">Welcome to my GitHub! I'm a dedicated Frontend Developer specializing in Angular and always eager to explore the latest in web development. With a keen eye for detail and a passion for creating seamless user experiences, I love building intuitive and responsive web applications.</h3>
 
 - 🔭 I’m currently working on **MultiProtocol File Transfer**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **LIMS**
 
-- 💬 Ask me about **Angulae,Python,MySQL**
+- 💬 Ask me about **Angular,Python,MySQL**
 
 - 📫 How to reach me **arunayyappan0704@gmail.com**
 
